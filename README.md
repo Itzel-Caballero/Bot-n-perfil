@@ -142,6 +142,9 @@ foreground - El color de primer plano (texto) a aplicar al botón.
         btnCuenta.setForeground(foreground); 
         }
 
+## Funcionamiento -Video-
+
+
 
 ![image](https://github.com/user-attachments/assets/8408a069-884d-4ad0-9304-1eed340d2e52)
 
